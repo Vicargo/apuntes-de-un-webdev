@@ -1,133 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <url>
-  <loc>https://vicargo.github.io/blog/categories/configuration</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/blog/categories/configuration</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/blog/categories/feature</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/blog/categories/feature</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/blog/custom-404-page</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/blog/custom-404-page</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/blog/customizing-your-site</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/blog/customizing-your-site</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/blog/fuse-search</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/blog/fuse-search</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/blog/getting-started</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/blog/getting-started</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/blog/mailchimp-newsletters</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/blog/mailchimp-newsletters</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/blog/my-first-blog-post</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/blog/my-first-blog-post</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/about</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/about</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/assets\build\css/main.css</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/assets\build\css/main.css</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/assets\build\js/main.js</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/assets\build\js/main.js</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/assets\build\js/main.js.map</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/assets\build\js/main.js.map</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/assets\build/mix-manifest.json</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/assets\build/mix-manifest.json</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/assets\images/jigsaw.png</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/assets\images/jigsaw.png</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/assets\img/about.png</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/assets\img/about.png</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/assets\img/logo-large.svg</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/assets\img/logo-large.svg</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/assets\img/logo.svg</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/assets\img/logo.svg</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/assets\img/magnifying-glass.svg</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/assets\img/magnifying-glass.svg</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/assets\img/newsletter.png</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/assets\img/newsletter.png</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/assets\img/post-cover-image-1.png</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/assets\img/post-cover-image-1.png</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/assets\img/post-cover-image-2.png</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/assets\img/post-cover-image-2.png</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/blog</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/blog</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/blog/2</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/blog/2</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/blog/feed.atom</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/blog/feed.atom</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io/contact</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev/contact</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
-  <loc>https://vicargo.github.io</loc>
-  <lastmod>2019-10-25T16:14:15+02:00</lastmod>
+  <loc>https://vicargo.github.io/apuntes-de-un-web-dev</loc>
+  <lastmod>2019-10-25T16:26:39+02:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
 </urlset>
