@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Blog Starter Template</title>
-    <link href="https://vicargo.github.io/apuntes-de-un-webdev/" />
+    <link href="https://vicargo.github.io/apuntes-de-un-webdev" />
     <link type="application/atom+xml" rel="self" href="https://vicargo.github.io/apuntes-de-un-webdev/blog/feed.atom" />
-    <updated>2019-10-25T15:28:46+02:00</updated>
+    <updated>2019-10-25T15:50:16+02:00</updated>
     <id>https://vicargo.github.io/apuntes-de-un-webdev/blog/feed.atom</id>
     <author>
         <name>Author Name</name>
