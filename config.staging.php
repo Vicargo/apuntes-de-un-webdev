@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'http://jigsaw-blog-staging.tighten.co',
+    'baseUrl' => 'https://vicargo.github.io/apuntes-de-un-web-dev',
     'production' => false,
 ];
