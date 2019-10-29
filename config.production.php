@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://vicargo.github.io/apuntes-de-un-web-dev/',
+    'baseUrl' => 'https://apuntesdeunwebdev.es',
     'production' => true,
 ];
