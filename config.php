@@ -1,16 +1,16 @@
 <?php
 
 return [
-    'baseUrl' => 'apuntesdeunwebdev.test',
+    'baseUrl' => 'http://localhost:3000',
     'production' => false,
-    'siteName' => 'Blog Starter Template',
-    'siteDescription' => 'Generate an elegant blog with Jigsaw',
-    'siteAuthor' => 'Author Name',
+    'siteName' => 'Apuntes de un Web Dev',
+    'siteDescription' => 'Frameworks, liberias, tutoriales',
+    'siteAuthor' => 'Víctor Arnau',
 
     // collections
     'collections' => [
         'posts' => [
-            'author' => 'Author Name', // Default author, if not provided in a post
+            'author' => 'Víctor Arnau', // Default author, if not provided in a post
             'sort' => '-date',
             'path' => 'blog/{filename}',
         ],
