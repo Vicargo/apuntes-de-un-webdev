@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Blog Starter Template</title>
+    <title>Apuntes de un Web Dev</title>
     <link href="https://apuntesdeunwebdev.es" />
     <link type="application/atom+xml" rel="self" href="https://apuntesdeunwebdev.es/blog/feed.atom" />
-    <updated>2019-10-29T10:28:53+01:00</updated>
+    <updated>2019-10-29T12:54:28+01:00</updated>
     <id>https://apuntesdeunwebdev.es/blog/feed.atom</id>
     <author>
-        <name>Author Name</name>
+        <name>Víctor Arnau</name>
     </author>
                 <entry>
     <id>https://apuntesdeunwebdev.es/blog/getting-started</id>
@@ -15,7 +15,7 @@
     <published>2018-12-25T01:00:00+01:00</published>
     <updated>2018-12-25T01:00:00+01:00</updated>
     <author>
-        <name>Author Name</name>
+        <name>Víctor Arnau</name>
     </author>
     <summary type="html">&lt;p&gt;This is a starter template for creating a beautiful, customizable blog with minimal effort. You’ll only have to change a few settings and you’re ready to go....</summary>
     <content type="html"><![CDATA[
@@ -62,71 +62,13 @@ featured: true
 npm run dev</code></pre>    ]]></content>
 </entry>
             <entry>
-    <id>https://apuntesdeunwebdev.es/blog/customizing-your-site</id>
-    <link type="text/html" rel="alternate" href="https://apuntesdeunwebdev.es/blog/customizing-your-site" />
-    <title>Customizing Your Site</title>
-    <published>2018-12-24T01:00:00+01:00</published>
-    <updated>2018-12-24T01:00:00+01:00</updated>
-    <author>
-        <name>Author Name</name>
-    </author>
-    <summary type="html">This starter template comes pre-loaded with Tailwind CSS, a utility CSS framework that allows you to customize and build complex designs without touching a line of CSS....</summary>
-    <content type="html"><![CDATA[
-        <p>This starter template comes pre-loaded with <a href="https://tailwindcss.com">Tailwind CSS</a>, a utility CSS framework that allows you to customize and build complex designs without touching a line of CSS. There are also a few base Sass files in the <code>/source/_assets/sass</code> folder, set up with the expectation that you can add any custom CSS into <code>_blog.scss</code>.</p>
-<blockquote>
-<p>You can also re-work the architecture of the Sass files any way you’d like; just make sure to keep the <code>@tailwind</code> references in your final <code>main.scss</code> file.</p>
-</blockquote>
-<pre><code class="language-scss">// source/_assets/sass/main.scss
-
-@tailwind preflight;
-@tailwind components;
-
-// Code syntax highlighting,
-// https://highlightjs.org
-@import '~highlightjs/styles/default';
-
-@import 'base';
-@import 'navigation';
-@import 'mailchimp';
-@import 'blog';
-
-@tailwind utilities;</code></pre>
-<hr />
-<h2>Typography Styles</h2>
-<p>Here’s a quick preview of what some of the basic type styles will look like in this starter template:</p>
-<h1>h1 Heading</h1>
-<h2>h2 Heading</h2>
-<h3>h3 Heading</h3>
-<h4>h4 Heading</h4>
-<h5>h5 Heading</h5>
-<h6>h6 Heading</h6>
-<p>The quick brown fox jumps over the lazy dog</p>
-<p><s>The quick brown fox jumps over the lazy dog</s></p>
-<p><u>The quick brown fox jumps over the lazy dog</u></p>
-<p><em>The quick brown fox jumps over the lazy dog</em></p>
-<p><strong>The quick brown fox jumps over the lazy dog</strong></p>
-<p><code>The quick brown fox jumps over the lazy dog</code></p>
-<p><small>The quick brown fox jumps over the lazy dog</small></p>
-<blockquote>
-<p>The quick brown fox jumps over the lazy dog</p>
-</blockquote>
-<p><a href="#">The quick brown fox jumps over the lazy dog</a></p>
-<pre><code class="language-php">class Foo extends bar
-{
-    public function fooBar()
-    {
-        //
-    }
-}</code></pre>    ]]></content>
-</entry>
-            <entry>
     <id>https://apuntesdeunwebdev.es/blog/custom-404-page</id>
     <link type="text/html" rel="alternate" href="https://apuntesdeunwebdev.es/blog/custom-404-page" />
     <title>Custom 404 Pages</title>
     <published>2018-12-23T01:00:00+01:00</published>
     <updated>2018-12-23T01:00:00+01:00</updated>
     <author>
-        <name>Author Name</name>
+        <name>Víctor Arnau</name>
     </author>
     <summary type="html">This starter template includes a custom 404 Not Found error page, located at &lt;code&gt;/source/404.blade.php&lt;/code&gt;. To preview the 404 page, you can visit &lt;code&gt;/404&lt;/code&gt; in your browser.
 
@@ -161,7 +103,7 @@ Depending on where your site is hosted, you may need to configure......</summary
     <published>2018-12-22T01:00:00+01:00</published>
     <updated>2018-12-22T01:00:00+01:00</updated>
     <author>
-        <name>Author Name</name>
+        <name>Víctor Arnau</name>
     </author>
     <summary type="html">To provide fast, local search of your blog, this starter template comes with a pre-built Vue.js component that uses Fuse.js. Fuse.js is a &amp;quot;lightweight fuzzy-search library with no dependencies.&amp;quot; It works by running queries against a JSON index......</summary>
     <content type="html"><![CDATA[
@@ -176,7 +118,7 @@ Depending on where your site is hosted, you may need to configure......</summary
     <published>2018-11-21T01:00:00+01:00</published>
     <updated>2018-11-21T01:00:00+01:00</updated>
     <author>
-        <name>Author Name</name>
+        <name>Víctor Arnau</name>
     </author>
     <summary type="html">Mailchimp is a fantastic marketing platform, and takes the pain out of managing email lists and campaigns. The blog starter template comes with a beautiful pre-built newsletter form, that only needs a Mailchimp list URL to send to.
 To begin accepting......</summary>
@@ -214,7 +156,7 @@ To begin accepting......</summary>
     <published>2017-03-23T01:00:00+01:00</published>
     <updated>2017-03-23T01:00:00+01:00</updated>
     <author>
-        <name>Author Name</name>
+        <name>Víctor Arnau</name>
     </author>
     <summary type="html">This is the start of your first blog post....</summary>
     <content type="html"><![CDATA[
