@@ -3,12 +3,64 @@
     <title>Apuntes de un Web Dev</title>
     <link href="https://apuntesdeunwebdev.es" />
     <link type="application/atom+xml" rel="self" href="https://apuntesdeunwebdev.es/blog/feed.atom" />
-    <updated>2019-10-29T13:07:10+01:00</updated>
+    <updated>2019-10-30T15:26:34+01:00</updated>
     <id>https://apuntesdeunwebdev.es/blog/feed.atom</id>
     <author>
         <name>Víctor Arnau</name>
     </author>
                 <entry>
+    <id>https://apuntesdeunwebdev.es/blog/iniciandonos-en-laravel-livewire</id>
+    <link type="text/html" rel="alternate" href="https://apuntesdeunwebdev.es/blog/iniciandonos-en-laravel-livewire" />
+    <title>Iniciandonos en Laravel Livewire</title>
+    <published>2019-10-30T01:00:00+01:00</published>
+    <updated>2019-10-30T01:00:00+01:00</updated>
+    <author>
+        <name>Víctor Arnau</name>
+    </author>
+    <summary type="html">Laravel Livewire, o cómo escribir componentes de VUE en PHP. Creamos nuestra primera aplicación ejemplo desde cero....</summary>
+    <content type="html"><![CDATA[
+        <p>Laravel Livewire, o cómo escribir componentes de VUE en PHP. Creamos nuestra primera aplicación ejemplo desde cero. </p>    ]]></content>
+</entry>
+            <entry>
+    <id>https://apuntesdeunwebdev.es/blog/jigsaw-para-sitios-estaticos-y-algo-mas</id>
+    <link type="text/html" rel="alternate" href="https://apuntesdeunwebdev.es/blog/jigsaw-para-sitios-estaticos-y-algo-mas" />
+    <title>Jigsaw para sitios estáticos... y algo más</title>
+    <published>2019-10-30T01:00:00+01:00</published>
+    <updated>2019-10-30T01:00:00+01:00</updated>
+    <author>
+        <name>Víctor Arnau</name>
+    </author>
+    <summary type="html">Con jigsaw podremos utilizar el sistema de plantillas de Laravel (Blade), crear nuestro contenido en formato markdown, o simplemente utilizar simple HTML. Y eso no es todo, jigsaw lleva integrado Laravel Mix, que nos permite compilar nuestro CSS y......</summary>
+    <content type="html"><![CDATA[
+        <p>Con jigsaw podremos utilizar el sistema de plantillas de Laravel (Blade), crear nuestro contenido en formato markdown, o simplemente utilizar simple HTML. Y eso no es todo, jigsaw lleva integrado Laravel Mix, que nos permite compilar nuestro CSS y Javascript</p>    ]]></content>
+</entry>
+            <entry>
+    <id>https://apuntesdeunwebdev.es/blog/webs-de-referencia-para-un-desarrollador-web-junior</id>
+    <link type="text/html" rel="alternate" href="https://apuntesdeunwebdev.es/blog/webs-de-referencia-para-un-desarrollador-web-junior" />
+    <title>Webs de referencia para un Desarrollador Web Junior</title>
+    <published>2019-10-30T01:00:00+01:00</published>
+    <updated>2019-10-30T01:00:00+01:00</updated>
+    <author>
+        <name>Víctor Arnau</name>
+    </author>
+    <summary type="html">Cuando acabas tus estudios superiores y te sueltan en el gran oceano del desarrollo web, puede que te sientas perdido o abrumado, en este post facilitamos unas webs que seguro que ayudan a tu crecimiento como desarrollador...</summary>
+    <content type="html"><![CDATA[
+        <p>Cuando acabas tus estudios superiores y te sueltan en el gran oceano del desarrollo web, puede que te sientas perdido o abrumado, en este post facilitamos unas webs que seguro que ayudan a tu crecimiento como desarrollador</p>    ]]></content>
+</entry>
+            <entry>
+    <id>https://apuntesdeunwebdev.es/blog/hacer-deploy-de-un-site-estatico-gratis</id>
+    <link type="text/html" rel="alternate" href="https://apuntesdeunwebdev.es/blog/hacer-deploy-de-un-site-estatico-gratis" />
+    <title>Hacer deploy de una web estática gratis</title>
+    <published>2019-10-29T01:00:00+01:00</published>
+    <updated>2019-10-29T01:00:00+01:00</updated>
+    <author>
+        <name>Víctor Arnau</name>
+    </author>
+    <summary type="html">&lt;p&gt;¿Qué opciones tenemos para publicar nuestro proyecto estático gastando lo menos posible o gratis? Existen varias opciones, vamos a ver como podemos hacerlo....</summary>
+    <content type="html"><![CDATA[
+        <p>¿Qué opciones tenemos para publicar nuestro proyecto estático gastando lo menos posible o gratis? Existen varias opciones, vamos a ver como podemos hacerlo.<!-- more --></p>    ]]></content>
+</entry>
+            <entry>
     <id>https://apuntesdeunwebdev.es/blog/getting-started</id>
     <link type="text/html" rel="alternate" href="https://apuntesdeunwebdev.es/blog/getting-started" />
     <title>Getting Started</title>
